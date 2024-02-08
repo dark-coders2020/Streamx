@@ -45,10 +45,10 @@ Note: You must have one of these players installed to run Streamx.
    npm install webtorrent-cli -g
    ```
 
-5. Navigate to the code folder. In this case, the code folder is `torrentStream`:
+5. Navigate to the code folder. In this case, the code folder is `Streamx`:
 
    ```bash
-   cd torrentStream
+   cd Streamx
    ```
 
 6. Install all the required Python packages:
